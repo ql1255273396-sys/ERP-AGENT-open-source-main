@@ -1,0 +1,91 @@
+[
+  {
+    "batch": "LF20261023214948",
+    "name": "真实零件查询",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/ea0f6e7b39b5393ba4c6eda6143bd5a0"
+    ],
+    "summary_replayed": true,
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/c3589786498f01b409f73c57d1d93548"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "Skills按需读取",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/9c39881c92a898b0bb6110f91f53d512"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/b824888023fd55e26e77c0cc6512485a"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "记忆显式写入",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/d9413b1e95f96825bcee0cc3715665b7"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/a73f054af9231e29baa70c01eed92cd7"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "记忆跨会话召回",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/f5ea7d87d66264ac05797f8681bd06e8"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/4b8d8ce789f0f741f46c6ad8888347d2"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "不同用户记忆隔离",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/63b23bf3e49b0312f35f5fec4e3b2cc5"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/a39d8c9dd86b7fb9f47d29a2bca0f289"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "会话归属检查",
+    "backend_trace_urls": [],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/0ce2bbf9d1b188480ea015cdccf95de3"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "真实订单审批通过",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/cbbbe07930d14eb8df966b167a222680"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/8f7654c794c902cc7717f7f3b48245c9"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "真实订单审批拒绝",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/7337436261db4197fa910586ecf3ecd8"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/551525ac26321718f095a6087261896e"
+  },
+  {
+    "batch": "LF20261023214948",
+    "name": "不存在零件的异常处理",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/9e7693026d97ae5235d3b974cc79c41e"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/91a8b183cbcbed4fcde2cb5d5e35fbca"
+  },
+  {
+    "batch": "LF20261023215424",
+    "name": "真实订单审批通过",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/c07b748e66ed1d57628ccb3652096c58",
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/3d4b91d1ad326699055afe737554edf4"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/b734cc4322a83f82bece3c931bf2fbe8"
+  },
+  {
+    "batch": "LF20261023215424",
+    "name": "真实订单审批拒绝",
+    "backend_trace_urls": [
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/6cb53e3d3aae03e683d0a795145eaf62",
+      "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/caf9199a6ac6158bdcf1e8f9b02a637d"
+    ],
+    "case_trace_url": "https://us.cloud.langfuse.com/project/cmvkwfdsz008cad0j8ussq2w8/traces/75fc186b6423a50136065138f1000445"
+  }
+]

@@ -1,0 +1,2 @@
+# Optional telemetry dependency; business operation remains available without it.
+langfuse==5.0.4

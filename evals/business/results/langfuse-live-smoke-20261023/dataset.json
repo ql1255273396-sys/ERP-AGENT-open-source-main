@@ -1,0 +1,50 @@
+[
+  {
+    "fixtures": {
+      "parts": [
+        {
+          "id": 101,
+          "partCode": "EVAL-101",
+          "name": "测试制动片0",
+          "purchasePrice": 17,
+          "supplierId": 201,
+          "unit": "件"
+        }
+      ],
+      "inventory": [
+        {
+          "id": 301,
+          "partId": 101,
+          "currentQuantity": 41,
+          "safetyStock": 20,
+          "partDetail": {
+            "id": 101,
+            "partCode": "EVAL-101",
+            "name": "测试制动片0",
+            "purchasePrice": 17,
+            "supplierId": 201,
+            "unit": "件"
+          }
+        }
+      ],
+      "suppliers": [
+        {
+          "id": 201,
+          "name": "测试供应商0",
+          "status": 1,
+          "creditRating": "A"
+        }
+      ]
+    },
+    "part_id": 101,
+    "qty": 13,
+    "price": 17,
+    "id": "test-lookup-1",
+    "kind": "lookup",
+    "prompt": "查零件ID=101的实际采购单价。不要下单。最终只返回JSON对象，字段part_id、unit_price。",
+    "expected": {
+      "part_id": 101,
+      "unit_price": 17
+    }
+  }
+]

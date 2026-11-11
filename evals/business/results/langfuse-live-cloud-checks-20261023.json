@@ -1,0 +1,326 @@
+[
+  {
+    "id": "test-lookup-1",
+    "trace_id": "e1521938e931fcb472a04cc9a4a639fa",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-calculation-1",
+    "trace_id": "af242b496d86d69fd1ad37529ad6be3b",
+    "observations": 73,
+    "root_found": true,
+    "generations": 7,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-stock-1",
+    "trace_id": "1b03cbaba1912eb45b227dba0f394121",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-missing-1",
+    "trace_id": "613b8aaf16e8abbb618b3f4af580497d",
+    "observations": 36,
+    "root_found": true,
+    "generations": 2,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-approve-1",
+    "trace_id": "37f0ab5f24423dd844810e0379a56fb3",
+    "observations": 81,
+    "root_found": true,
+    "generations": 6,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-reject-1",
+    "trace_id": "7d3d67f2b2b80c8ddf67fad244edb58e",
+    "observations": 57,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-lookup-2",
+    "trace_id": "6f4134a8297fbf49d827a2918e341998",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-calculation-2",
+    "trace_id": "36ba2a0afbfd2d8b303031b1b8be4b05",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-stock-2",
+    "trace_id": "1fd8e08b61d250f25a5b43edfdbfd8d2",
+    "observations": 45,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-missing-2",
+    "trace_id": "e164ec9da4572838d5e0ce5b2405ae4a",
+    "observations": 36,
+    "root_found": true,
+    "generations": 2,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-approve-2",
+    "trace_id": "c317a910e245ceca971822932b9c5402",
+    "observations": 81,
+    "root_found": true,
+    "generations": 6,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-reject-2",
+    "trace_id": "bf326ad2ec60a6204a2461e81033a13f",
+    "observations": 67,
+    "root_found": true,
+    "generations": 5,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-lookup-3",
+    "trace_id": "0fc8554fcc5315c83254433e5db302ea",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-calculation-3",
+    "trace_id": "7fdeb149a3cab18269c513891e2a93f8",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-stock-3",
+    "trace_id": "55c1d0a09d9e6f2c993ac1bb425b44da",
+    "observations": 45,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-missing-3",
+    "trace_id": "c8921cdadee18aba4998384e8e57d056",
+    "observations": 36,
+    "root_found": true,
+    "generations": 2,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-approve-3",
+    "trace_id": "9730ed8f9f7249f373bb1c9d9aeb12a2",
+    "observations": 86,
+    "root_found": true,
+    "generations": 7,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "test-reject-3",
+    "trace_id": "82e01865822556a523e289e7aefe3fc5",
+    "observations": 67,
+    "root_found": true,
+    "generations": 5,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-supplier-1",
+    "trace_id": "420850125a08eb0079f985265a478f50",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-sufficient-1",
+    "trace_id": "59270bedd3e7440da1e8faf990dfead2",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-exact_stock-1",
+    "trace_id": "b6b60231ce013af66d55b2a72c0334dd",
+    "observations": 45,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-zero_stock-1",
+    "trace_id": "6835cd57c0608380b1f43f0b0b1f3cc7",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-not_found-1",
+    "trace_id": "b0439db8da0e1c859714715b671e2c0c",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-multi_total-1",
+    "trace_id": "6eec0e539a99a25790570ec58430a700",
+    "observations": 45,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-supplier-2",
+    "trace_id": "dfab547aa7dee1d074882e6084a5405f",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-sufficient-2",
+    "trace_id": "0a44de412866d97b3011547bc6a256cf",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-exact_stock-2",
+    "trace_id": "da90454d9f609a375ffd00b44568b9ed",
+    "observations": 45,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-zero_stock-2",
+    "trace_id": "2423a654ee3a0bf9ab4352fdfcf1beb5",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-not_found-2",
+    "trace_id": "61da9808d6a84702b09a7a1b7b075791",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-multi_total-2",
+    "trace_id": "27471925dfd2ffb39d8c19d7f0087c14",
+    "observations": 45,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-supplier-3",
+    "trace_id": "b37e540e3bf83ada8138a4f858f02741",
+    "observations": 67,
+    "root_found": true,
+    "generations": 5,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-sufficient-3",
+    "trace_id": "10e80b0f304df466866b879fc83da9ff",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-exact_stock-3",
+    "trace_id": "2c66469716ce5da07d04d0942ca336f5",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-zero_stock-3",
+    "trace_id": "b7a4c50336500c5f4f8f3385680e5939",
+    "observations": 55,
+    "root_found": true,
+    "generations": 4,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-not_found-3",
+    "trace_id": "a935396a498abf4cbe39245621375f04",
+    "observations": 43,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  },
+  {
+    "id": "extended-multi_total-3",
+    "trace_id": "7cbdffaed82988fe7e28d8a4f723bf88",
+    "observations": 45,
+    "root_found": true,
+    "generations": 3,
+    "payloads_empty": true,
+    "has_more": false
+  }
+]

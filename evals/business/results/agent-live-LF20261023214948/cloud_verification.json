@@ -1,0 +1,98 @@
+[
+  {
+    "name": "真实零件查询",
+    "trace_id": "c3589786498f01b409f73c57d1d93548",
+    "visible": false,
+    "observation_count": 0
+  },
+  {
+    "name": "Skills按需读取",
+    "trace_id": "b824888023fd55e26e77c0cc6512485a",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "记忆显式写入",
+    "trace_id": "a73f054af9231e29baa70c01eed92cd7",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "记忆跨会话召回",
+    "trace_id": "4b8d8ce789f0f741f46c6ad8888347d2",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "不同用户记忆隔离",
+    "trace_id": "a39d8c9dd86b7fb9f47d29a2bca0f289",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "会话归属检查",
+    "trace_id": "0ce2bbf9d1b188480ea015cdccf95de3",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "真实订单审批通过",
+    "trace_id": "8f7654c794c902cc7717f7f3b48245c9",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "真实订单审批拒绝",
+    "trace_id": "551525ac26321718f095a6087261896e",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "不存在零件的异常处理",
+    "trace_id": "91a8b183cbcbed4fcde2cb5d5e35fbca",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "遥测脱敏与故障隔离",
+    "trace_id": "b73f27a72e12eee795a6e5ccbdb72fa3",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "Skills渐进加载与路径边界",
+    "trace_id": "bd5e54b90a29282c3e5d181435cb012a",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "沙箱生命周期与恢复逻辑",
+    "trace_id": "b3fe660deaba8976ff72628b1d5280c0",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "记忆集成与用户隔离",
+    "trace_id": "224acbaffbd2eeecae72f461cd436f2e",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "业务验收判定器",
+    "trace_id": "bbea344f63734457b88f960cc9e3ad0d",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "规则模型审查路由与执行信号",
+    "trace_id": "6b5d50e1510598c83d6adff571bf8365",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "模型路由异常与降级",
+    "trace_id": "26951a47acd311ef5c23e9771fdfade2",
+    "visible": true,
+    "observation_count": 1
+  }
+]

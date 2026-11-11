@@ -1,0 +1,62 @@
+[
+  {
+    "name": "真实订单审批通过",
+    "trace_id": "b734cc4322a83f82bece3c931bf2fbe8",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "真实订单审批拒绝",
+    "trace_id": "75fc186b6423a50136065138f1000445",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "审批SSE事件与中断状态",
+    "trace_id": "b42f9cfc08549b28ec15637fe7ce51fb",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "遥测脱敏与故障隔离",
+    "trace_id": "6537e5ae8e93ceaed70e351044facfcb",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "Skills渐进加载与路径边界",
+    "trace_id": "a9e14193b1a49fee007579f57a957d10",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "沙箱生命周期与恢复逻辑",
+    "trace_id": "d33aab89f7e1e7ea76838102d5f5044f",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "记忆集成与用户隔离",
+    "trace_id": "3a422b96518d49767a192e964bcd6a00",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "业务验收判定器",
+    "trace_id": "eaaed46b819c5ec3cb503dc5f4d3421a",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "规则模型审查路由与执行信号",
+    "trace_id": "126a4333dcfcdc2a7c189f5a61fd5618",
+    "visible": true,
+    "observation_count": 1
+  },
+  {
+    "name": "模型路由异常与降级",
+    "trace_id": "5a6088cf643ae05154ad90f0bdc9f38a",
+    "visible": true,
+    "observation_count": 1
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "batch": "LF20261023214948",
+  "fixture": {
+    "partCode": "LF20261023214948",
+    "name": "Langfuse验收专用零件LF20261023214948",
+    "purchasePrice": 2.5,
+    "unit": "件",
+    "stockWarningValue": 0,
+    "description": "自动验收测试数据，保留追溯"
+  },
+  "created": {
+    "code": 200,
+    "message": "操作成功",
+    "data": {
+      "deleted": 0,
+      "createTime": "2026-10-23 21:49:57",
+      "updateTime": "2026-10-23 21:49:57",
+      "id": 73,
+      "partCode": "LF20261023214948",
+      "name": "Langfuse验收专用零件LF20261023214948",
+      "model": null,
+      "specification": null,
+      "unit": "件",
+      "purchasePrice": 2.5,
+      "suggestedRetailPrice": null,
+      "stockWarningValue": 0,
+      "supplierId": null,
+      "category": null,
+      "description": "自动验收测试数据，保留追溯"
+    },
+    "timestamp": 1792763397058
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "overall": {
+    "passed": 18,
+    "total": 18,
+    "pass_rate": 1.0,
+    "p95_seconds_nearest_rank": 21.023
+  },
+  "categories": {
+    "approve": {
+      "passed": 3,
+      "total": 3,
+      "pass_rate": 1.0,
+      "p95_seconds_nearest_rank": 21.023
+    },
+    "calculation": {
+      "passed": 3,
+      "total": 3,
+      "pass_rate": 1.0,
+      "p95_seconds_nearest_rank": 11.188
+    },
+    "lookup": {
+      "passed": 3,
+      "total": 3,
+      "pass_rate": 1.0,
+      "p95_seconds_nearest_rank": 5.445
+    },
+    "missing": {
+      "passed": 3,
+      "total": 3,
+      "pass_rate": 1.0,
+      "p95_seconds_nearest_rank": 5.527
+    },
+    "reject": {
+      "passed": 3,
+      "total": 3,
+      "pass_rate": 1.0,
+      "p95_seconds_nearest_rank": 15.796
+    },
+    "stock": {
+      "passed": 3,
+      "total": 3,
+      "pass_rate": 1.0,
+      "p95_seconds_nearest_rank": 5.844
+    }
+  },
+  "model_responses": 71,
+  "responses_missing_usage": 0,
+  "input_tokens": 589903,
+  "output_tokens": 19879,
+  "preapproval_write_attempts": 0
+}

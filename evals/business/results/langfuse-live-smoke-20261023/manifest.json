@@ -1,0 +1,21 @@
+{
+  "dataset_sha256": "986b07de8ed7a025af43ed899e34f9eea0f0d1ff8580a4641a43204bf3e9b7ed",
+  "model": "deepseek-flash",
+  "git_commit": "ddd69fd88ee376c4ba21e438ff24368f4edcb839",
+  "harness_sha256": {
+    "component_metrics.py": "9a6e2d6b4da21efbe5c4e3219a8dd8d4ceebf4c4dcd8e1a068ed3321929df7e4",
+    "dataset.py": "f7a51602c00e6364f122dda3683a9914f268b413de19fdd328cc89976aebe15b",
+    "run.py": "bcb2f8cd226e35e49cdcf721961b8a93791e2338c7b2ae01f2ba812ac938d68f",
+    "report.py": "ff1f3829948940e4c5645c5983daa79b714f08aa9d7b31b2d0f69e8bcf1c20ef",
+    "fixture.py": "aee8c1c14d640ca3a8eec65de18769115d2d963b23c3af0d5d41ec102914b071",
+    "expanded_report.py": "3f0b1777fa3fc3e82154646718a33cd31edf59fd7b0bd8d347e5e4e9db60468a"
+  },
+  "scope": "production factory + real model; in-process ERP tool transport; memory Store/checkpointer; StateBackend; unsafe/external tools removed; no MCP SSE/real ERP/Docker validation",
+  "router": "DeepSeek non-thinking; forced for reproducibility",
+  "deadline_seconds": 180,
+  "max_input_output_tokens_soft": 1000000,
+  "dev": false,
+  "planned_tasks": 1,
+  "case_design": "6 templates with numeric variants; not 18 independent business types",
+  "extended": false
+}
